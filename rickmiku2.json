@@ -1,0 +1,48 @@
+{
+  "name": "Miku Dark",
+  "description": "A dark, teal–aqua Hatsune Miku inspired theme with custom background support.",
+  "authors": [
+    {
+      "name": "ItzRickroller473",
+      "id": "929692269345402890"
+    }
+  ],
+  "background": {
+    "url": "https://raw.githubusercontent.com/L20412/revenge-themes/refs/heads/main/IMG_20260121_171118.png",
+    "blur": 0.2,
+    "brightness": 0.85
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#050607"],
+    "BACKGROUND_SECONDARY": ["#0A0C0E"],
+    "BACKGROUND_TERTIARY": ["#0F1114"],
+    "BACKGROUND_FLOATING": ["#111418"],
+
+    "HEADER_PRIMARY": ["#C8FFF7"],
+    "HEADER_SECONDARY": ["#8EE7DA"],
+
+    "TEXT_NORMAL": ["#C8FFF7"],
+    "TEXT_MUTED": ["#6FBFB6"],
+    "TEXT_LINK": ["#39D7C8"],
+
+    "INTERACTIVE_NORMAL": ["#39D7C8"],
+    "INTERACTIVE_HOVER": ["#4EE4D6"],
+    "INTERACTIVE_ACTIVE": ["#7AF7EB"],
+    "INTERACTIVE_MUTED": ["#1A2A2A"],
+
+    "STATUS_ONLINE": ["#39D7C8"],
+    "STATUS_IDLE": ["#FAA81A"],
+    "STATUS_DND": ["#ED4245"]
+  },
+  "rawColors": {
+    "PRIMARY_DARK_600": "#0F1114",
+    "PRIMARY_DARK_700": "#0A0C0E",
+    "PRIMARY_DARK_800": "#07090A",
+    "PRIMARY_DARK_900": "#050607",
+
+    "BRAND_500": "#39D7C8",
+    "BRAND_560": "#2EC7B9",
+    "BRAND_600": "#25B3A6",
+    "BRAND_800": "#145E59"
+  }
+}
